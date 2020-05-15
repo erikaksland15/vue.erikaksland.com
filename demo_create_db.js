@@ -28,7 +28,6 @@ con.connect(function(error)
   var sqlCreateTable = "CREATE TABLE " + dbName + ".timer_data " +
                        "(id INT(11) AUTO_INCREMENT PRIMARY KEY, " +
                         "task_description VARCHAR(255), " +
-                        "task_completed int(1), " +
                         "created_at VARCHAR(255), " +
                         "end_time VARCHAR(255))";
   con.query(sqlCreateTable, function (error, result)
