@@ -58,12 +58,12 @@ export default {
   name: "PomodoroTimerBody",
   data() {
     return {
-      //workTimeDefault: 25 * 60,
-      //breakTimeDefault: 5 * 60,
-      //totalTime: 25 * 60,
-      workTimeDefault: 1 * 10,
-      breakTimeDefault: 1 * 2,
-      totalTime: 1 * 10,
+      workTimeDefault: 25 * 60,
+      breakTimeDefault: 5 * 60,
+      totalTime: 25 * 60,
+      //workTimeDefault: 1 * 10,
+      //breakTimeDefault: 1 * 2,
+      //totalTime: 1 * 10,
       timer: null,
       resetButton: false,
       isBreak: false,
