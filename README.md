@@ -1,20 +1,20 @@
 # vue.erikaksland.com
 
-~~## Pre Project setup
-This pomodoro timer runs using vue.js, php, and mysql.
+~~## Pre Project setup~~
+~~This pomodoro timer runs using vue.js, php, and mysql.~~
 
-Things to install first:
-XAMPP: https://www.apachefriends.org/index.html
+~~Things to install first:~~
+~~XAMPP: https://www.apachefriends.org/index.html~~
 
-  ^this should install php and mysql onto your local machine to run this app
+~~  ^this should install php and mysql onto your local machine to run this app~~
 
-node.js (LTS): https://nodejs.org/en/
+~~node.js (LTS): https://nodejs.org/en/~~
 
-  ^needed to run serve and vue aspects of this app
+~~  ^needed to run serve and vue aspects of this app~~
 
-*MySQL Workbench: https://dev.mysql.com/downloads/workbench/
+~~*MySQL Workbench: https://dev.mysql.com/downloads/workbench/~~
 
-  ^may be needed depending on local configuration to get sql to run from scripts~~
+~~  ^may be needed depending on local configuration to get sql to run from scripts~~
 
 
 ## Project setup
