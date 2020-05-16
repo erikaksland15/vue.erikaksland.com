@@ -1,5 +1,16 @@
 # vue.erikaksland.com
 
+## Project setup
+### Installs node_modules needed to run locally
+```
+npm install
+```
+
+### Compiles and hot-reloads for development - gets ready and loads the site at http://localhost:8080/ (might vary based on your local development server)
+```
+npm run serve
+```
+
 ~~## Pre Project setup~~
 ~~This pomodoro timer runs using vue.js, php, and mysql.~~
 
@@ -15,30 +26,6 @@
 ~~*MySQL Workbench: https://dev.mysql.com/downloads/workbench/~~
 
 ~~^may be needed depending on local configuration to get sql to run from scripts~~
-
-
-## Project setup
-### Installs node_modules needed to run locally
-```
-npm install
-```
-
-### Compiles and hot-reloads for development - gets ready and loads the site at http://localhost:8080/ (might vary based on your local development server)
-```
-npm run serve
-```
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Other
 ### Compiles and minifies for production
